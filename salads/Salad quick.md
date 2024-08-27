@@ -3,7 +3,7 @@
 ## Ingredients
 
 - Ingredient 1sdad
-- Ingredient 2ss
+- Ingredient pasta
 
 
 ## Instructions
